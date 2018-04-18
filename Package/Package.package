@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="9c0ca612-a2a2-4be9-b98f-ac5aa50d0b0b" 
+        solutionId="9c0ca612-a2a2-4be9-b98f-ac5aa50d0b0b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TestHostWebApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="5ad74696-9953-419c-aca9-ccac71fd718d" />
+  </features>
+</package>

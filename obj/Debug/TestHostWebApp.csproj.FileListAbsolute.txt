@@ -1,0 +1,4 @@
+C:\Users\hosme\documents\visual studio 2017\Projects\TestHostWebApp\TestHostWebApp\bin\Debug\TestHostWebApp.pdb
+C:\Users\hosme\documents\visual studio 2017\Projects\TestHostWebApp\TestHostWebApp\obj\Debug\TestHostWebApp.dll
+C:\Users\hosme\documents\visual studio 2017\Projects\TestHostWebApp\TestHostWebApp\obj\Debug\TestHostWebApp.pdb
+C:\Users\hosme\Documents\Visual Studio 2017\Projects\TestHostWebApp\TestHostWebApp\obj\Debug\TestHostWebApp.csprojResolveAssemblyReference.cache
